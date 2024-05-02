@@ -7,7 +7,7 @@ subtitle: <https://ipl.uv.es/='#'>ISP</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   image_rotate: true
   more_info: >
     <p>555 your office number</p>
