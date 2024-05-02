@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <https://ipl.uv.es/='#'>ISP</a>. Address. Contacts. Moto. Etc.
+subtitle: <https://ipl.uv.es/>ISP</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
