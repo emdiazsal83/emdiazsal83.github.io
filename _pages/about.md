@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [ISP](https://isp.uv.es/)
+subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
