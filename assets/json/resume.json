@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universitat de Valencia, Valencia, Spain",
+      "location": "Valencia, Spain",
+      "url": "https://www.isp.uv.es/",
+      "area": "Machine Learning",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2018-01-01",
+      "endDate": "2023-12-01",
+      "Grade": "outstanding, cum laude",
+      "thesis": ["Towards causal discovery for Earth system sciences"]
     }
   ],
   "awards": [
