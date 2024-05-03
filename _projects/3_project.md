@@ -3,7 +3,7 @@ layout: page
 title: project 3 with very long name
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://spaceml.org/repo/project/63691212f97150000d504d4d
 importance: 3
 category: work
 ---
