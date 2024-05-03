@@ -9,9 +9,10 @@ profile:
   image: emiliano2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Valencia, State 12345</p>
+    <p>Image Processing Laboratory (IPL)</p>
+    <p>E4 building - 4th floor</p>
+    <p>Parc Científic Universitat de València</p>
+    
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
