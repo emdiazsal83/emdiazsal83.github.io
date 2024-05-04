@@ -56,17 +56,6 @@
       "endDate": "2023-12-01",
       "Grade": "outstanding, cum laude",
       "thesis": ["Towards causal discovery for Earth system sciences"]
-    },
-    {
-      "institution": "SWISS FEDERAL INSTITUTE OF TECHNOLOGY (ETHZ)",
-      "location": "Zürich, Switzerland",
-      "url": "https://www.ethz.ch/",
-      "area": "Statistics",
-      "studyType": "MSc",
-      "startDate": "2014-09-01",
-      "endDate": "2017-08-01",
-      "Grade": "5.7/6",
-      "thesis": ["Online deforestation detection"]
     }
     
   ],
