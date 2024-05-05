@@ -69,6 +69,18 @@
       "score": "5.7/6",
       "advisor": "Dr. Marloes Maathuis",
       "thesis": ["Online deforestation detection"]
+    },
+    {
+      "institution": "Insttituto tecnológico autónomo de México (ITAM)",
+      "location": "CDMX, México",
+      "url": "https://www.itam.mx/",
+      "area": "Applied Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "2004-09-01",
+      "endDate": "2014-06-01",
+      "score": "8.7/10",
+      "advisor": "Dr. Alejandro",
+      "thesis": ["Conintegración"]
     }
   ],
   "awards": [
