@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Emiliano Díaz Salas Porras",
+    "label": "Post doctoral research fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "emiliano.diaz@uv.es",
+    "phone": "(+34) 684-144570",
+    "url": "https://emdiazsal83.github.io/",
+    "summary": "Machine learning and causality researcher.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
