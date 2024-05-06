@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
+title: USMILE
 description: another without an image
-img:
+redirect: https://www.usmile-erc.eu/
+img: usmile.png
 importance: 3
 category: fun
 ---
