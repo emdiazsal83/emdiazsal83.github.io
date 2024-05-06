@@ -3,7 +3,7 @@ layout: page
 title: USMILE
 description: another without an image
 redirect: https://www.usmile-erc.eu/
-img: usmile.png
+img: assets/img/usmile.png
 importance: 3
 category: fun
 ---
