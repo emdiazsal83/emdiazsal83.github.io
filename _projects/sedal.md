@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 5
+title: SEDAL
 description: a project with a background image
 img: assets/img/ERC.jpg
 importance: 3
