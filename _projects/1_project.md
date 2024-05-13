@@ -21,8 +21,10 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-Here is a link to my phd thesis document: 
-- 
+[Here](https://hdl.handle.net/10550/91721) is a link to my phd thesis document: 
+
+
+
 And [here](assets/pdf/) are the slides of my phd Defense presentation 
 
 <div class="row">
