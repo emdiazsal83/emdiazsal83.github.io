@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Phd thesis
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/phd_thesis.jpg
 importance: 1
 category: work
 related_publications: true
@@ -20,6 +20,10 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+
+Here is a link to my phd thesis document: 
+- 
+And [here](assets/pdf/) are the slides of my phd Defense presentation 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
