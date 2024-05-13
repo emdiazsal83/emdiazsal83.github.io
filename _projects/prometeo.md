@@ -3,7 +3,7 @@ layout: page
 title: AI4CS
 description: Artificial Intelligence for Complexity Science. Brain, Earth, Climate, Society
 redirect: https://isp.uv.es/ai4cs
-img: assets/img/prometeo.jpg
+img: assets/img/ai4cs_agenda.jpg
 importance: 1
 category: fun
 ---
