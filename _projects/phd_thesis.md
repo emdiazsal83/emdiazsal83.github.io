@@ -2,7 +2,7 @@
 layout: page
 title: Phd thesis
 description: with background image
-img: assets/img/phd_thesis.jpg
+img: assets/img/thesis_diagram_crop.jpeg
 importance: 1
 category: work
 related_publications: true
