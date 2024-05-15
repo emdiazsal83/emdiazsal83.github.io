@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SEDAL
-description: a project with a background image
+description: Statistical learning for Earth Observation Data Analysis
 img: assets/img/ERC.jpg
 importance: 3
 redirect: https://isp.uv.es/sedal.html
