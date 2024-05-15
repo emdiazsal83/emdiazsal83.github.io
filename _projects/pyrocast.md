@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pyrocast
-description: a project that redirects to another website
+description: Machine learning pipeline for pyrocumulonimbus (pyroCb) forecasting
 img: assets/img/pyrocast.png
 redirect: https://spaceml.org/repo/project/63691212f97150000d504d4d
 importance: 3
