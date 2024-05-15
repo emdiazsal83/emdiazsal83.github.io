@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phd thesis
-description: with background image
+description: Towards causal discovery for Earth system sciences
 img: assets/img/thesis_diagram_crop.jpeg
 importance: 1
 category: work
