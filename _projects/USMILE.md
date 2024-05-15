@@ -1,7 +1,7 @@
 ---
 layout: page
 title: USMILE
-description: another without an image
+description: Understanding and Modeling the Earth System with Machine Learning
 redirect: https://www.usmile-erc.eu/
 img: assets/img/USMILE.jpg
 importance: 1
