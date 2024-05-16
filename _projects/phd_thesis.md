@@ -25,7 +25,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 
 
-And [here](assets/pdf/Defensa_tesis_v2_16_9.pdf) are the slides of my phd Defense presentation 
+And [here](../assets/pdf/Defensa_tesis_v2_16_9.pdf) are the slides of my phd Defense presentation 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
