@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - emdiazsal83
+  - humbertog
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - emdiazsal83/latentNoise
+  - IPL-UV/confound_it
+  - IPL-UV/causal_GPT
+  - spaceml-org/pyrocast
+  - emdiazsal83/RCCM
+  - emdiazsal83/causaLearner
