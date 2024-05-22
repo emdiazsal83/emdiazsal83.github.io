@@ -19,3 +19,5 @@ horizontal: false
 - EGU May 2023
 - Oberwolfach 2023
 - Columbia 2024
+- Thesis defense 2023
+- Jena 2024
