@@ -72,46 +72,25 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Dynamic Econometric Models",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Instituto Teconológico Autónomo de México (ITAM)",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Graphical Models",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Bocconi University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
+      "name": "Deep Learning",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
