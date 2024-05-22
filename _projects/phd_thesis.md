@@ -29,5 +29,5 @@ The thesis is structured in the following chapters:
 [Here](https://hdl.handle.net/10550/91721) is a link to my phd thesis document: 
 
 
-And [here](../assets/pdf/Jena_USMILE_latent_functions_formato_USMILE.pdf) are the slides of my phd Defense presentation 
+And [here](../assets/pdf/Defensa_tesis_v2.pdf) are the slides of my phd Defense presentation 
 
