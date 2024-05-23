@@ -73,21 +73,21 @@
   "certificates": [
     {
       "name": "Dynamic Econometric Models",
-      "date": "2018-01-01",
+      "date": "2013/09-2014/07",
       "issuer": "Instituto Teconológico Autónomo de México (ITAM)",
       "url": "https://www.itam.mx",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Graphical Models",
-      "date": "2018-01-01",
+      "date": "July 2018",
       "issuer": "Bocconi University",
       "url": "https://www.unibocconi.it/en",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Deep Learning",
-      "date": "2018-01-01",
+      "date": "July 2019",
       "issuer": "Institute for research, development, training and advice",
       "url": "https://irdta.eu/deeplearn2019/",
       "icon": "fa-solid fa-envelope"
