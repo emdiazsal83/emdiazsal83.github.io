@@ -95,11 +95,25 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Pairwise causal discovery with support measure machines.",
+      "publisher": "Applied Soft Computing",
+      "releaseDate": "January 2024",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1568494623010487",
+      "summary": "Pairwise causal dicovey using ensembles and kernel mean embeddings."
+    },
+    {
+      "name": "Recovering Latent Confounders from High-dimensional Proxy Variables.",
+      "publisher": "Arxiv",
+      "releaseDate": "March 2024",
+      "url": "https://arxiv.org/abs/2403.14228",
+      "summary": "Estimating latent confounders for causal effect estimation."
+    },
+    {
+      "name": "Large language models for constrained-based causal discovery",
+      "publisher": "AAAI",
+      "releaseDate": "July 2023",
+      "url": "https://openreview.net/forum?id=NEAoZRWHPN",
+      "summary": "Using large language models to aid in causal discovery."
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
