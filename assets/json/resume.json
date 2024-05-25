@@ -116,18 +116,46 @@
       "summary": "Using large language models to aid in causal discovery."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Discovering causal relations and equations from data",
+      "publisher": "Physics Reports",
+      "releaseDate": "December 2023",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0370157323003411",
+      "summary": "A technical review and survey of causal discovery and equation discovery for physics."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Physics-aware nonparametric regression models for Earth data analysis",
+      "publisher": "Environmental research letters",
+      "releaseDate": "May 2022",
+      "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ac6762",
+      "summary": "Non-parametric physics aware machine learning method."
+    },
+    {
+      "name": "Learning latent functions for causal discovery",
+      "publisher": "Machine Learning, Science and Technology",
+      "releaseDate": "July 2023",
+      "url": "https://iopscience.iop.org/article/10.1088/2632-2153/ace151",
+      "summary": "Bivariate causal discovery method for non-additive data with extension to time series"
+    },
+    {
+      "name": "Inferring causal relations from observational long-term carbon and water fluxes records",
+      "publisher": "Scientific Reports",
+      "releaseDate": "January 2022",
+      "url": "https://www.nature.com/articles/s41598-022-05377-7",
+      "summary": "Causal discovery method for determnistic dynamic systems with applicationto carbon and water fluxes."
+    },
+    {
+      "name": "Identifying the Causes of Pyrocumulonimbus (PyroCb)",
+      "publisher": "NeurIPS wokshop",
+      "releaseDate": "October 2022",
+      "url": "https://openreview.net/forum?id=rM6HO4h1MI",
+      "summary": "Causal discovery tools for finding the causes of a binary target variable with application to Pyrocumulunimbus clouds."
+    },
+    {
+      "name": "Pyrocast: a Machine Learning Pipeline to Forecast Pyrocumulonimbus (PyroCb) Clouds",
+      "publisher": "NeurIPS wokshop",
+      "releaseDate": "January 2022",
+      "url": "https://openreview.net/forum?id=00zFXUmhNUl",
+      "summary": "A machine learning pipeline to forecast Pyrocumulunimbus clouds."
     }
   ],
   "skills": [
