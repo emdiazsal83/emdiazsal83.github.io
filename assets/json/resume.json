@@ -160,22 +160,20 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Machine Learning",
+      "level": "Phd",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Statistics",
+        "Causal Discovery",
+        "Cause-effect estimation",
+        "Optimization"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -183,25 +181,33 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "beginner",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "beginner",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Machine learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Statistics",
+        "Causal Discovery",
+        "Cause-effect estimation",
+        "Optimization"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Gustau Camps-Valls",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
