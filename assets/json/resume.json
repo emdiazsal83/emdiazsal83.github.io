@@ -209,22 +209,35 @@
     {
       "name": "Professor Gustau Camps-Valls",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "position" "Group leader at ISP and full professor in Electrical Engineering",
+      "email": "gustau.camps@uv.es",
+      "url": "https://www.uv.es/gcamps/"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Marloes Maathuis",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
+    }
+    ,
+    {
+      "name": "Professor David Muñoz",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": ""
+    },
+    {
+      "name": "Manuel Sarmiento",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "FDL 2022",
+      "summary": "Frontier Development Lab - Europe - 2022. As part of the Aerosols challenge developed a machine learning pipeline an causal discovery toolbox to predict Pyrocumulunimbus clouds and understand their causes.",
+      "highlights": ["Causal Discovery", "Machine Learning", "Pyrocumulunimbus"],
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-31",
+      "url": "https://spaceml.org/repo/project/63691212f97150000d504d4d"
     }
   ]
 }
