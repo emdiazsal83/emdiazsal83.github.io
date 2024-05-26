@@ -238,6 +238,14 @@
       "startDate": "2022-06-01",
       "endDate": "2022-08-31",
       "url": "https://spaceml.org/repo/project/63691212f97150000d504d4d"
+    },
+    {
+      "name": "FDL 2024",
+      "summary": "Frontier Development Lab - Europe - 2024. Currently taking part in the 3D cLOUDS USING MULTI-SENSORS challenge.",
+      "highlights": ["Machine Learning", "Clouds","Multi-sensor","Climate modeling"],
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-31",
+      "url": "https://spaceml.org/repo/project/63691212f97150000d504d4d"
     }
   ]
 }
