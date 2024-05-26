@@ -216,15 +216,14 @@
     {
       "name": "Professor Marloes Maathuis",
       "icon": "fa-solid fa-thumbtack",
-      "position" : "Professor of Statistics"
+      "position" : "Professor of Statistics",
       "email": "marloesmaathuis@gmail.com",
       "url": "https://www.linkedin.com/in/marloes-maathuis-394b45174/"
-    }
-    ,
+    },
     {
       "name": "Professor Fernando David Muñoz Negrón",
       "icon": "fa-solid fa-thumbtack",
-      "position" : "Professor of Industrial engineering"
+      "position" : "Professor of Industrial engineering",
       "email": "davidm@itam.mx",
       "url": "https://gente.itam.mx/davidm/"
     },
