@@ -222,14 +222,17 @@
     }
     ,
     {
-      "name": "Professor David Muñoz Negrón",
+      "name": "Professor Fernando David Muñoz Negrón",
       "icon": "fa-solid fa-thumbtack",
-      "reference": ""
+      "position" : "Professor of Industrial engineering"
+      "email": "davidm@itam.mx",
+      "url": "https://gente.itam.mx/davidm/"
     },
     {
       "name": "Manuel Sarmiento",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": ""
+      "position" : ""
+      "email": "",
+      "url": ""
     }
   ],
   "projects": [
