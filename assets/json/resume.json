@@ -209,18 +209,20 @@
     {
       "name": "Professor Gustau Camps-Valls",
       "icon": "fa-solid fa-laptop",
-      "position" "Group leader at ISP and full professor in Electrical Engineering",
+      "position": "Group leader at ISP and full professor in Electrical Engineering",
       "email": "gustau.camps@uv.es",
       "url": "https://www.uv.es/gcamps/"
     },
     {
       "name": "Professor Marloes Maathuis",
       "icon": "fa-solid fa-thumbtack",
-      "reference": ""
+      "position" : "Professor of Statistics"
+      "email": "marloesmaathuis@gmail.com",
+      "url": "https://www.linkedin.com/in/marloes-maathuis-394b45174/"
     }
     ,
     {
-      "name": "Professor David Muñoz",
+      "name": "Professor David Muñoz Negrón",
       "icon": "fa-solid fa-thumbtack",
       "reference": ""
     },
@@ -245,7 +247,7 @@
       "highlights": ["Machine Learning", "Clouds","Multi-sensor","Climate modeling"],
       "startDate": "2024-06-01",
       "endDate": "2024-08-31",
-      "url": "https://spaceml.org/repo/project/63691212f97150000d504d4d"
+      "url": "https://fdleurope.org/fdl-europe-2024"
     }
   ]
 }
