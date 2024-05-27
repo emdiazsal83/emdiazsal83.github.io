@@ -208,10 +208,7 @@
   "references": [
     {
       "name": "Professor Gustau Camps-Valls",
-      "icon": "fa-solid fa-laptop",
-      "position": "Group leader at ISP and full professor in Electrical Engineering",
-      "email": "gustau.camps@uv.es",
-      "url": "https://www.uv.es/gcamps/"
+      "icon": "fa-solid fa-laptop"
     }
   ],
   "projects": [
