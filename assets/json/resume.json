@@ -205,35 +205,6 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor Gustau Camps-Valls",
-      "icon": "fa-solid fa-laptop",
-      "position": "Group leader at ISP and full professor in Electrical Engineering",
-      "email": "gustau.camps@uv.es",
-      "url": "https://www.uv.es/gcamps/"
-    },
-    {
-      "name": "Professor Marloes Maathuis",
-      "icon": "fa-solid fa-thumbtack",
-      "position" : "Professor of Statistics",
-      "email": "marloesmaathuis@gmail.com",
-      "url": "https://www.linkedin.com/in/marloes-maathuis-394b45174/"
-    },
-    {
-      "name": "Professor Fernando David Muñoz Negrón",
-      "icon": "fa-solid fa-thumbtack",
-      "position" : "Professor of Industrial engineering",
-      "email": "davidm@itam.mx",
-      "url": "https://gente.itam.mx/davidm/"
-    },
-    {
-      "name": "Manuel Sarmiento",
-      "position" : ""
-      "email": "",
-      "url": ""
-    }
-  ],
   "projects": [
     {
       "name": "FDL 2022",
