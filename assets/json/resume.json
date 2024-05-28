@@ -209,7 +209,8 @@
     {
       "name": "Professor Gustau Camps-Valls",
       "icon": "fa-solid fa-laptop",
-      "email": "gustau@uv.es"
+      "reference": "gustau@uv.es",
+      "url": "https://www.uv.es/gcamps/"
     }
   ],
   "projects": [
