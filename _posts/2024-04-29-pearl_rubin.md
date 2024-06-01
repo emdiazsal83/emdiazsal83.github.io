@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Pearl and Rubin
-date: 2024-04-29 23:36:10
-description: this is what included typograms code could look like
-tags: formatting diagrams
-categories: sample-posts
+date: 2024-06-01 23:36:10
+description: Two intersecting frameworks for causality
+tags: causality
+categories: causality
 typograms: true
 ---
 
