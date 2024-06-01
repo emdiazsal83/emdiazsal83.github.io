@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Machine learning and causality
-date: 2024-04-28 15:06:00
-description: this is what a post that can be cited looks like
+title: Links between machine learning and causality
+date: 2024-06-01 15:06:00
+description: Causality guides ML through change
 tags: formatting citation
 categories: sample-posts
 citation: true
