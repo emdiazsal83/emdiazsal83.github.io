@@ -3,7 +3,7 @@ layout: post
 title: Links between machine learning and causality
 date: 2024-06-01 15:06:00
 description: Causality guides ML through change
-tags: "Machine learning" causality
+tags: 'Machine learning' causality
 categories: causality
 citation: true
 ---
