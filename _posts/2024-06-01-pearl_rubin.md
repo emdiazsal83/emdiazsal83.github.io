@@ -19,11 +19,9 @@ titative elements, namely the functions describing the relationship between the
 process variable and its causes
 
 The potential outcomes framework (PO) [Rubin, 1974] provides a different viewpoint of the
-data generating mechanism to that taken by Pearl's FCM approach. We do not use it in this
-work but briefly introduce it here so that the FCM framework we adopt for most of the
-work presented here can be better understood. We can better grasp the FCM’s strengths
-and weaknesses by contrasting its conception of causal phenomena with an alternate
-viewpoint. As described, the FCM framework, in a given fixed context (observational or
+data generating mechanism to that taken by Pearl's FCM approach.  We can better grasp the FCM’s strengths
+and weaknesses by contrasting its conception of causal phenomena with the alternate
+PO viewpoint. As described, the FCM framework, in a given fixed context (observational or
 interventional), assumes that the data-generating mechanism involves fixed mechanisms
 acting on a given observational unit, mixing its cause and random characteristics to
 produce its effect characteristics. Barring any intervention or counterfactual scenario, the
