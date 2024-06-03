@@ -6,6 +6,7 @@ description: Two intersecting frameworks for causality
 tags: causality
 categories: causality
 typograms: true
+bibliography: pearl_rubin.bib
 ---
 
 In the Functional Causal Model (FCM) framework of causality  {% cite pearl2009causality %} <d-cite key="pearl2009causality"></d-cite> [Pearl, 2009] a system is described in
