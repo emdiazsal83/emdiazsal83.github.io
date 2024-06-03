@@ -18,7 +18,7 @@ namely the list of cause variables upon which the process depends, and quan-
 titative elements, namely the functions describing the relationship between the
 process variable and its causes
 
-The potential outcomes framework (PO) [Rubin, 1974] provides a different viewpoint of the
+The potential outcomes framework (PO) <d-cite key="rubin1974estimating"></d-cite> [Rubin, 1974] provides a different viewpoint of the
 data generating mechanism to that taken by Pearl's FCM approach.  We can better grasp the FCM’s strengths
 and weaknesses by contrasting its conception of causal phenomena with the alternate
 PO viewpoint. As described, the FCM framework, in a given fixed context (observational or
