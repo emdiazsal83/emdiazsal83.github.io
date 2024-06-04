@@ -14,8 +14,7 @@ terms of fundamental processes involving other variables in the system, as well 
 random quantities. The processes chosen to describe the system must be fundamental in the sense that 
 changes to one of the processes do not affect the others.
 Each process variable is modeled by an equation consisting of qualitative elements,
-namely the list of cause variables upon which the process depends, and quan-
-titative elements, namely the functions describing the relationship between the
+namely the list of cause variables upon which the process depends, and quantitative elements, namely the functions describing the relationship between the
 process variable and its causes
 
 The potential outcomes framework (PO) <d-cite key="rubin1974estimating"></d-cite> [Rubin, 1974] provides a different viewpoint of the
