@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Pearl and Rubin
 date: 2024-06-01 23:36:10
 description: Two intersecting frameworks for causality
