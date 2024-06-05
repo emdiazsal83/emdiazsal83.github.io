@@ -16,7 +16,7 @@ or estimate an interventional distribution (cause-effect estimation). Since caus
 is, in effect, a language that may be used to describe the changes a system may endure
 and articulate how these may impact the probability distribution of the system, there are
 many interesting links with subfields of machine learning which deal with the problem
-of learning from data generated in such changing environments <d-cite key="gregor2015draw"></d-cite> [Kaddour et al., 2022,
+of learning from data generated in such changing environments <d-cite key="causalML"></d-cite> [Kaddour et al., 2022,
 Schölkopf, 2022].
 
 Generalisability and robustness in ML deal with learning a probability distribution
