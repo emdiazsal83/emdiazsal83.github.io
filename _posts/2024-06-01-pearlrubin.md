@@ -9,7 +9,7 @@ typograms: true
 bibliography: 2024-06-01-pearlrubin.bib
 ---
 
-TEST8. In the Functional Causal Model (FCM) framework of causality  <d-cite key="pearl2009causality"></d-cite> [Pearl, 2009] a system is described in
+TEST9. In the Functional Causal Model (FCM) framework of causality  <d-cite key="pearl2009causality"></d-cite> [Pearl, 2009] a system is described in
 terms of fundamental processes involving other variables in the system, as well as
 random quantities. The processes chosen to describe the system must be fundamental in the sense that 
 changes to one of the processes do not affect the others.
