@@ -72,7 +72,7 @@ et al., 2014] or normalizing flows <d-cite key="normFlows"></d-cite> [Rafajłowi
 dimensional structured data as a series of functions in the form of iterative transformations
 applied to multivariate noise, where components are mutually independent. These models
 effectively estimate an FCM since an FCM can be re-expressed in
-terms of only independent noise variables <d-cite key="gregor2015draw"></d-cite> <d-cite key="gregor2015draw"></d-cite> [Monti et al., 2020, Khemakhem et al., 2020].
+terms of only independent noise variables <d-cite key="autoReg"></d-cite> <d-cite key="autoReg2"></d-cite> [Monti et al., 2020, Khemakhem et al., 2020].
 
 Finally, hybrid and physically informed models attempt to incorporate, _a priori_, knowledge
 about the phenomenon at hand into ML algorithms which learn from data. From a
@@ -81,6 +81,6 @@ causal DAG. Alternatively, when mixed data from different environments are avail
 physics-style conservation restrictions may be introduced. In this case, several, possibly
 natural, interventions have occurred. Using the modularity assumption of FCMs, we may
 enforce those models corresponding to equations not intervened on remain invariant, such
-as is applied with <d-cite key="gregor2015draw"></d-cite> [Peters et al., 2016].
+as is applied with <d-cite key="peters2016"></d-cite> [Peters et al., 2016].
 
 
