@@ -11,7 +11,7 @@ bibliography: 2024-05-31-MLcausality.bib
 
 Machine learning (ML), and statistics, is, in essence, a field dealing with estimating
 probability distributions from data. It is used within causal inference as a tool for learning
-observed probability distributions, or properties of these, to learn a DAG (causal discovery)
+observed probability distributions, or properties of these, to learn a directed acyclic graph (DAG, causal discovery)
 or estimate an interventional distribution (cause-effect estimation). Since causal inference
 is, in effect, a language that may be used to describe the changes a system may endure
 and articulate how these may impact the probability distribution of the system, there are
@@ -33,7 +33,7 @@ the data distribution of subsets of observations generated at different times ha
 In the case of a co-variate shift, where the distribution of the inputs changes, knowing
 the underlying causal structure can help determine if we should modify our predictive
 models in response to this change. If the inputs correspond to the causes and outputs to
-effects, then the modularity of the FCM dictates that this will not influence the conditional
+effects, then the modularity of the Functional Causal Model (FCM) dictates that this will not influence the conditional
 distribution of outputs given inputs. When the prediction task is anti-causal, in the sense
 that inputs are effects and outputs are causes, the co-variate shift does necessitate that
 the prediction model is changed. 
@@ -45,7 +45,7 @@ the causal direction, this cannot help <d-cite key="gregor2015draw"></d-cite> [S
 
 Transfer learning <d-cite key="gregor2015draw"></d-cite> [Pan and Yang, 2010], domain-adaptation <d-cite key="gregor2015draw"></d-cite> [Farahani et al., 2021], meta-learning <d-cite key="gregor2015draw"></d-cite> [Vilalta and
 Drissi, 2002], and few/one/zero-shot learning <d-cite key="gregor2015draw"></d-cite> [Wang et al., 2020] are families of methods
-interested in learning a probability distribution with using large amount of data generated
+interested in learning a probability distribution by using large amount of data generated
 by one distribution and then using a small amount of data generated with a changed
 distribution, to adapt, or update, the estimate. Again, causality can provide the language
 to describe these changes and the required conditions to estimate the relevant probability
