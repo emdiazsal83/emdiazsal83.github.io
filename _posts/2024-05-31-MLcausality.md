@@ -43,37 +43,36 @@ about the conditional distribution of outputs given inputs. This may be fruitful
 modelling is done in the anti-causal direction. However, if modularity is satisfied in
 the causal direction, this cannot help <d-cite key="scholkopfSSL"></d-cite> [Schölkopf et al., 2012]. 
 
-Transfer learning <d-cite key="gregor2015draw"></d-cite> [Pan and Yang, 2010], domain-adaptation <d-cite key="gregor2015draw"></d-cite> [Farahani et al., 2021], meta-learning <d-cite key="gregor2015draw"></d-cite> [Vilalta and
-Drissi, 2002], and few/one/zero-shot learning <d-cite key="gregor2015draw"></d-cite> [Wang et al., 2020] are families of methods
+Transfer learning <d-cite key="transferLearning"></d-cite> [Pan and Yang, 2010], domain-adaptation <d-cite key="domainAdapt"></d-cite> [Farahani et al., 2021], meta-learning <d-cite key="metaLearning"></d-cite> [Vilalta and Drissi, 2002], and few/one/zero-shot learning <d-cite key="fewShot"></d-cite> [Wang et al., 2020] are families of methods
 interested in learning a probability distribution by using large amount of data generated
 by one distribution and then using a small amount of data generated with a changed
 distribution, to adapt, or update, the estimate. Again, causality can provide the language
 to describe these changes and the required conditions to estimate the relevant probability
-distributions <d-cite key="gregor2015draw"></d-cite> [Rojas-Carulla et al., 2018, Magliacane et al., 2018]. 
+distributions <d-cite key="invariantTransfer"></d-cite> <d-cite key="domainAdaptCausal"></d-cite>  [Rojas-Carulla et al., 2018, Magliacane et al., 2018]. 
 
-Active learning <d-cite key="gregor2015draw"></d-cite> [Settles,2009] refers to the problem of choosing how to sample new data in order to improve
+Active learning <d-cite key="activeLearning"></d-cite> [Settles,2009] refers to the problem of choosing how to sample new data in order to improve
 our probability distribution estimation. If we can perform controlled experiments, the
 active learning prerogative of sampling new data is further extended. Causality gives
 us the tools to identify which interventional distributions to sample from, i.e., which
-experiments to conduct, to identify the underlying causal structure fully <d-cite key="gregor2015draw"></d-cite> [Toth et al.,
+experiments to conduct, to identify the underlying causal structure fully <d-cite key="activeBL"></d-cite> [Toth et al.,
 2022]. 
 
 In reinforcement learning, an agent chooses actions in a stochastic environment
 to maximize his expected reward. Causal inference can guide the process of knowing
 which actions to take to better explore (sample) the different interventional distributions
-implied by the FCM that governs the environment <d-cite key="gregor2015draw"></d-cite> [Weichwald et al., 2022]. 
+implied by the FCM that governs the environment <d-cite key="causalRL"></d-cite> [Weichwald et al., 2022]. 
 
-In ML, latent modelling techniques, such as variational autoencoders <d-cite key="gregor2015draw"></d-cite> [Kingma and Welling, 2014],
+In ML, latent modelling techniques, such as variational autoencoders <d-cite key="VAEs"></d-cite> [Kingma and Welling, 2014],
 generally attempt to find a sparse underlying representation, or factorization, of a high
 dimensional probability distribution. This is connected to causal discovery since, under
 certain specific modularity assumptions, the causal factorization of the joint, corresponding
-to the causal DAG is the simplest possible factorization <d-cite key="gregor2015draw"></d-cite> [Schölkopf et al., 2021, Wang et al.,
-2023]. In ML, generative models, such as generative adversarial networks <d-cite key="gregor2015draw"></d-cite> [Goodfellow
-et al., 2014] or normalizing flows <d-cite key="gregor2015draw"></d-cite> [Rafajłowicz, 2020], generally attempt to describe high-
+to the causal DAG is the simplest possible factorization <d-cite key="towardsCausalRep"></d-cite> <d-cite key="disentangledCausal"></d-cite> [Schölkopf et al., 2021, Wang et al.,
+2023]. In ML, generative models, such as generative adversarial networks <d-cite key="GANs"></d-cite> [Goodfellow
+et al., 2014] or normalizing flows <d-cite key="normFlows"></d-cite> [Rafajłowicz, 2020], generally attempt to describe high-
 dimensional structured data as a series of functions in the form of iterative transformations
 applied to multivariate noise, where components are mutually independent. These models
 effectively estimate an FCM since an FCM can be re-expressed in
-terms of only independent noise variables <d-cite key="gregor2015draw"></d-cite> [Monti et al., 2020, Khemakhem et al., 2020].
+terms of only independent noise variables <d-cite key="gregor2015draw"></d-cite> <d-cite key="gregor2015draw"></d-cite> [Monti et al., 2020, Khemakhem et al., 2020].
 
 Finally, hybrid and physically informed models attempt to incorporate, _a priori_, knowledge
 about the phenomenon at hand into ML algorithms which learn from data. From a
