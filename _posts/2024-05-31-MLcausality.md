@@ -9,22 +9,21 @@ citation: true
 bibliography: 2024-05-31-MLcausality.bib
 ---
 
-Test. Machine learning (ML), and statistics, is, in essence, a field dealing with estimating
+Test2. Machine learning (ML), and statistics, is, in essence, a field dealing with estimating
 probability distributions from data. It is used within causal inference as a tool for learning
 observed probability distributions, or properties of these, to learn a directed acyclic graph (DAG, causal discovery)
 or estimate an interventional distribution (cause-effect estimation). Since causal inference
 is, in effect, a language that may be used to describe the changes a system may endure
 and articulate how these may impact the probability distribution of the system, there are
 many interesting links with subfields of machine learning which deal with the problem
-of learning from data generated in such changing environments <d-cite key="causalML"></d-cite><d-cite key="causality4ML"></d-cite> [Kaddour et al., 2022,
-Schölkopf, 2022].
+of learning from data generated in such changing environments <d-cite key="causalML"></d-cite><d-cite key="causality4ML"></d-cite>.
 
 Generalisability and robustness in ML deal with learning a probability distribution
 from observed data that is valid for unobserved data. Insofar as any changes in the
 data are caused by a changing underlying generating mechanism, causality gives the
 language to articulate these changes and decide which parts, or factors, of the probability
 distribution need changing. With regard to changes resulting from differing sampling
-procedures, more recent developments <d-cite key="BareinboimandPearl2016"></d-cite> [Bareinboim and Pearl, 2016] also provide the
+procedures, more recent developments <d-cite key="BareinboimandPearl2016"></d-cite> also provide the
 necessary language to reason about what aspects of the probability distribution change
 and which don’t. 
 
@@ -41,7 +40,7 @@ the prediction model is changed.
 Something similar occurs in semi-supervised learning, where complementary information about the distribution of the inputs is used in learning
 about the conditional distribution of outputs given inputs. This may be fruitful if the
 modelling is done in the anti-causal direction. However, if modularity is satisfied in
-the causal direction, this cannot help <d-cite key="scholkopfSSL"></d-cite> [Schölkopf et al., 2012]. 
+the causal direction, this cannot help <d-cite key="scholkopfSSL"></d-cite>. 
 
 Transfer learning <d-cite key="transferLearning"></d-cite> [Pan and Yang, 2010], domain-adaptation <d-cite key="domainAdapt"></d-cite> [Farahani et al., 2021], meta-learning <d-cite key="metaLearning"></d-cite> [Vilalta and Drissi, 2002], and few/one/zero-shot learning <d-cite key="fewShot"></d-cite> [Wang et al., 2020] are families of methods
 interested in learning a probability distribution by using large amount of data generated
