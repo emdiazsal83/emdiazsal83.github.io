@@ -42,12 +42,12 @@ about the conditional distribution of outputs given inputs. This may be fruitful
 modelling is done in the anti-causal direction. However, if modularity is satisfied in
 the causal direction, this cannot help <d-cite key="scholkopfSSL"></d-cite>. 
 
-Transfer learning <d-cite key="transferLearning"></d-cite> [Pan and Yang, 2010], domain-adaptation <d-cite key="domainAdapt"></d-cite> [Farahani et al., 2021], meta-learning <d-cite key="metaLearning"></d-cite> [Vilalta and Drissi, 2002], and few/one/zero-shot learning <d-cite key="fewShot"></d-cite> [Wang et al., 2020] are families of methods
+Transfer learning <d-cite key="transferLearning"></d-cite> [Pan and Yang, 2010], domain-adaptation <d-cite key="domainAdapt"></d-cite>, meta-learning <d-cite key="metaLearning"></d-cite> [Vilalta and Drissi, 2002], and few/one/zero-shot learning <d-cite key="fewShot"></d-cite> [Wang et al., 2020] are families of methods
 interested in learning a probability distribution by using large amount of data generated
 by one distribution and then using a small amount of data generated with a changed
 distribution, to adapt, or update, the estimate. Again, causality can provide the language
 to describe these changes and the required conditions to estimate the relevant probability
-distributions <d-cite key="invariantTransfer"></d-cite> <d-cite key="domainAdaptCausal"></d-cite>  [Rojas-Carulla et al., 2018, Magliacane et al., 2018]. 
+distributions <d-cite key="invariantTransfer"></d-cite> <d-cite key="domainAdaptCausal"></d-cite>. 
 
 Active learning <d-cite key="activeLearning"></d-cite> [Settles,2009] refers to the problem of choosing how to sample new data in order to improve
 our probability distribution estimation. If we can perform controlled experiments, the
