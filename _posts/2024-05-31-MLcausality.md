@@ -80,6 +80,6 @@ causal DAG. Alternatively, when mixed data from different environments are avail
 physics-style conservation restrictions may be introduced. In this case, several, possibly
 natural, interventions have occurred. Using the modularity assumption of FCMs, we may
 enforce those models corresponding to equations not intervened on remain invariant, such
-as is applied with <d-cite key="peters2016"></d-cite> [Peters et al., 2016].
+as is applied with <d-cite key="peters2016"></d-cite>.
 
 
