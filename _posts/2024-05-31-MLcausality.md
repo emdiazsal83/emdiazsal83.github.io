@@ -60,7 +60,7 @@ to maximize his expected reward. Causal inference can guide the process of knowi
 which actions to take to better explore (sample) the different interventional distributions
 implied by the FCM that governs the environment <d-cite key="causalRL"></d-cite>. 
 
-In ML, latent modelling techniques, such as variational autoencoders <d-cite key="VAEs"></d-cite> [Kingma and Welling, 2014],
+In ML, latent modelling techniques, such as variational autoencoders <d-cite key="VAEs"></d-cite>,
 generally attempt to find a sparse underlying representation, or factorization, of a high
 dimensional probability distribution. This is connected to causal discovery since, under
 certain specific modularity assumptions, the causal factorization of the joint, corresponding
