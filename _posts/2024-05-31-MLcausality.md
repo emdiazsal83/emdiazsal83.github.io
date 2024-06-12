@@ -9,7 +9,7 @@ citation: true
 bibliography: 2024-05-31-MLcausality.bib
 ---
 
-Machine learning (ML), and statistics, is, in essence, a field dealing with estimating
+Bla. Machine learning (ML), and statistics, is, in essence, a field dealing with estimating
 probability distributions from data. It is used within causal inference as a tool for learning
 observed probability distributions, or properties of these, to learn a directed acyclic graph (DAG, causal discovery)
 or estimate an interventional distribution (cause-effect estimation). Since causal inference
