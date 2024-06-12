@@ -58,13 +58,13 @@ experiments to conduct, to identify the underlying causal structure fully <d-cit
 In reinforcement learning, an agent chooses actions in a stochastic environment
 to maximize his expected reward. Causal inference can guide the process of knowing
 which actions to take to better explore (sample) the different interventional distributions
-implied by the FCM that governs the environment <d-cite key="causalRL"></d-cite> [Weichwald et al., 2022]. 
+implied by the FCM that governs the environment <d-cite key="causalRL"></d-cite>. 
 
 In ML, latent modelling techniques, such as variational autoencoders <d-cite key="VAEs"></d-cite> [Kingma and Welling, 2014],
 generally attempt to find a sparse underlying representation, or factorization, of a high
 dimensional probability distribution. This is connected to causal discovery since, under
 certain specific modularity assumptions, the causal factorization of the joint, corresponding
-to the causal DAG is the simplest possible factorization <d-cite key="towardsCausalRep"></d-cite> <d-cite key="disentangledCausal"></d-cite> [Wang et al.,2023]. In ML, generative models, such as generative adversarial networks <d-cite key="GANs"></d-cite> or normalizing flows <d-cite key="normFlows"></d-cite> [Rafajłowicz, 2020], generally attempt to describe high-
+to the causal DAG is the simplest possible factorization <d-cite key="towardsCausalRep"></d-cite> <d-cite key="disentangledCausal"></d-cite> [Wang et al.,2023]. In ML, generative models, such as generative adversarial networks <d-cite key="GANs"></d-cite> or normalizing flows <d-cite key="normFlows"></d-cite> , generally attempt to describe high-
 dimensional structured data as a series of functions in the form of iterative transformations
 applied to multivariate noise, where components are mutually independent. These models
 effectively estimate an FCM since an FCM can be re-expressed in
