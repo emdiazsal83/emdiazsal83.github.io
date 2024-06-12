@@ -9,7 +9,7 @@ citation: true
 bibliography: 2024-05-31-MLcausality.bib
 ---
 
-Test. Machine learning (ML), and statistics, is, in essence, a field dealing with estimating
+Test2. Machine learning (ML), and statistics, is, in essence, a field dealing with estimating
 probability distributions from data. It is used within causal inference as a tool for learning
 observed probability distributions, or properties of these, to learn a directed acyclic graph (DAG, causal discovery)
 or estimate an interventional distribution (cause-effect estimation). Since causal inference
@@ -64,7 +64,7 @@ In ML, latent modelling techniques, such as variational autoencoders <d-cite key
 generally attempt to find a sparse underlying representation, or factorization, of a high
 dimensional probability distribution. This is connected to causal discovery since, under
 certain specific modularity assumptions, the causal factorization of the joint, corresponding
-to the causal DAG is the simplest possible factorization <d-cite key="towardsCausalRep"></d-cite> <d-cite key="disentangledCausal"></d-cite> [Wang et al.,2023]. In ML, generative models, such as generative adversarial networks <d-cite key="GANs"></d-cite> or normalizing flows <d-cite key="normFlows"></d-cite> , generally attempt to describe high-
+to the causal DAG is the simplest possible factorization <d-cite key="towardsCausalRep"></d-cite> <d-cite key="disentangledCausal"></d-cite>. In ML, generative models, such as generative adversarial networks <d-cite key="GANs"></d-cite> or normalizing flows <d-cite key="normFlows"></d-cite> , generally attempt to describe high-
 dimensional structured data as a series of functions in the form of iterative transformations
 applied to multivariate noise, where components are mutually independent. These models
 effectively estimate an FCM since an FCM can be re-expressed in
