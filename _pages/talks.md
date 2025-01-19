@@ -19,6 +19,7 @@ horizontal: false
 - ISP causality 2023
 - EGU May 2023
 - Oberwolfach 2023
-- Columbia 2024
+- (Columbia)[Icp_columbia_v0.pdf] 2024
 - Thesis defense 2023
-- Jena 2024
+- (Jena)[Jena_USMILE_latent_functions_formato_USMILE.pdf] 2024
+- AI4CS Workshop 2025
