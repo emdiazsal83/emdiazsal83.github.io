@@ -2,7 +2,7 @@
 layout: page
 title: talks
 permalink: /talks/
-description: A(n under construction) list of my talks.
+description: A list of my talks.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
