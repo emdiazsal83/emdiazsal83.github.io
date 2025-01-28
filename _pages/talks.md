@@ -9,9 +9,11 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-  
-# ([IGARSS](../../assets/) 2018)
-- [Oxford ](../assets/pdf/2019_Oxford_KCDC_SLIDES.pdf) 2019
+<!---
+([IGARSS](../../assets/) 2018)
+-
+-->  
+  [Oxford ](../assets/pdf/2019_Oxford_KCDC_SLIDES.pdf) 2019
 - [EGU](../assets/pdf/2019_EGU_KCDC_SLIDES_20190406.pdf) 2019
 - [ESA Phi Week](../../assets/pdf/2019_PhiWeek_Causality_EO_SLIDES_clean.pdf) 2019
 - [KERMES ](../assets/pdf/2020_Kermes_KCDC_SLIDES.pdf) 2020
