@@ -24,4 +24,4 @@ horizontal: false
 - [FDL 2024](../../assets/pdf/FDL_Europe_2024_3DClouds_showcase.pdf) 2024
 - [Thesis defense](../../assets/pdf/Defensa_tesis_v2.pdf) 2024
 - [Jena](../../assets/pdf/Jena_USMILE_latent_functions_formato_USMILE.pdf) 2024
-- [AI4CS Workshop 2025](../assets/pdf/AI4CS_Workshop.pdf)
+- [AI4CS Workshop 2025](../assets/pdf/AI4CS_Workshop.pdf) 2025
