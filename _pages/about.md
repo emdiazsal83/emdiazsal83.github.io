@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <Assitant Professor at the href"https://www.uv.es/uvweb/departamento-estadistica-investigacion-operativa/es/departamento-estadistica-investigacion-operativa-1285857926292.html">department of Statistics and Operations Research</a> at the href"https://www.uv.es/">University of Valencia</a> and researcher at the href="https://isp.uv.es">Image & Signal Processing (ISP) group</a>
+subtitle: <Assitant Professor at the href="https://www.uv.es/uvweb/departamento-estadistica-investigacion-operativa/es/departamento-estadistica-investigacion-operativa-1285857926292.html">department of Statistics and Operations Research</a> at the href="https://www.uv.es/">University of Valencia</a> and researcher at the href="https://isp.uv.es">Image & Signal Processing (ISP) group</a>
 
 profile:
   align: right
