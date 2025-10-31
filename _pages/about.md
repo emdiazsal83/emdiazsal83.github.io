@@ -14,8 +14,8 @@ profile:
 
     <p>Department of Statistics and Operations Research</p>
     <p>Mathematical Sciences Faculty</p>
-    <p>E4 building - 2nd Floor - Office 18 floor</p>
-    <p>Parc Científic Universitat de València</p>
+    <p>2nd Floor - Office 18 floor</p>
+    <p>Campus Burjasot de Universitat de València</p>
 
     
     
