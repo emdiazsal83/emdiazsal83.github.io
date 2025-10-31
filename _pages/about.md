@@ -26,3 +26,5 @@ social: true # includes social icons at the bottom of the page
 I am interested in causal discovery, causal inference, machine learning (ML), probability and statiistics. Concreteley, I am interestesd in applying causal reasoning and probabilistic reasoning, on the one hand, and statistical and ML models on the other, in order to advance Earth System science. At a methodological level I have worked with and developed causal discovery techniques related to asymmetry bivariate causal discovery, [invariant causal prediction](https://arxiv.org/abs/1501.01332) and convergent cross mapping. 
 
 Appliications include species distribution modeling, change detection for deforestation and destruction of coral reefs, discriminating, with causal arguments, between large fires that will produce a Pyrocumulunimbus (pyroCb) storm clouds and those that won’t, identifying spatial patterns of causal heterogeneity for the water and carbon cycles. My current research is on learning efficient causal representations of confounding variables, use of LLMs for causal discovery tasks and identifying the causal drivers of extreme heatwave events. 
+
+
