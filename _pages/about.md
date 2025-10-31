@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 'Assistant Professor at the <a href="https://www.uv.es/uvweb/departamento-estadistica-investigacion-operativa/es/departamento-estadistica-investigacion-operativa-1285857926292.html">Department of Statistics and Operations Research</a> at the <a href="https://www.uv.es/">University of Valencia</a> and researcher at the <a href="https://isp.uv.es">Image &amp; Signal Processing (ISP) group</a>'
+subtitle: 'Assistant Professor at the <a href="https://www.uv.es/eio">Department of Statistics and Operations Research</a> at the <a href="https://www.uv.es/">University of Valencia</a> and researcher at the <a href="https://isp.uv.es">Image &amp; Signal Processing (ISP) group</a>'
 profile:
   align: right
   image: emiliano2.jpg
@@ -11,6 +11,13 @@ profile:
     <p>Image Processing Laboratory (IPL)</p>
     <p>E4 building - 4th floor</p>
     <p>Parc Científic Universitat de València</p>
+
+    <p>Department of Statistics and Operations Research</p>
+    <p>Mathematical Sciences Faculty</p>
+    <p>E4 building - 2nd Floor - Office 18 floor</p>
+    <p>Parc Científic Universitat de València</p>
+
+    
     
 
 news: true # includes a list of news items
