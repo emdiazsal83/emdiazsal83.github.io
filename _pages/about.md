@@ -5,8 +5,8 @@ permalink: /
 subtitle: 'Assistant Professor at the <a href="https://www.uv.es/eio">Department of Statistics and Operations Research</a> at the <a href="https://www.uv.es/">University of Valencia</a> and researcher at the <a href="https://isp.uv.es">Image &amp; Signal Processing (ISP) group</a>'
 profile:
   align: right
-  <!-- # image: emiliano2.jpg -->
-  <!-- # image_circular: true # crops the image to make it circular --> 
+  #image: emiliano2.jpg 
+  #image_circular: true # crops the image to make it circular
   more_info: >
     <p>Image Processing Laboratory (IPL)</p>
     <p>E4 building - 4th floor</p>
