@@ -11,7 +11,7 @@ profile:
     <p>Image Processing Laboratory (IPL)</p>
     <p>E4 building - 4th floor</p>
     <p>Parc Científic Universitat de València</p>
-
+    <p>
     <p>Department of Statistics and Operations Research</p>
     <p>Mathematical Sciences Faculty</p>
     <p>2nd Floor - Office 18 floor</p>
