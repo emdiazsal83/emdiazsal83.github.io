@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Started my new position as assistant professor at the [Department of Statistics and Operations Research](https://www.uv.es/uvweb/departament-estadistica-investigacio-operativa/ca/departament-estadistica-investigacio-operativa-1285857926292.html) at the University of Valencia!
+Started my new position as assistant professor at the [Department of Statistics and Operations Research](https://www.uv.es/eio) at the University of Valencia!
 
 
