@@ -3,18 +3,17 @@ layout: about
 title: about
 permalink: /
 subtitle: Assistant Professor at the
-<a href="https://www.uv.es/uvweb/departamento-estadistica-investigacion-operativa/es/departamento-estadistica-investigacion-operativa-1285857926292.html">
+<a href="https://www.uv.es/uvweb/departamento-estadistica-investigacion-operativa/es/departamento-estadistica-investigacion-operativa-1285857926292.html" target="_blank">
 Department of Statistics and Operations Research
 </a>
 at the
-<a href="https://www.uv.es/">
+<a href="https://www.uv.es/" target="_blank">
 University of Valencia
 </a>
 and researcher at the
-<a href="https://isp.uv.es">
+<a href="https://isp.uv.es" target="_blank">
 Image & Signal Processing (ISP) group
 </a>.
-
 profile:
   align: right
   image: emiliano2.jpg
