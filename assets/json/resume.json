@@ -24,10 +24,18 @@
   },
   "work": [
     {
+      "name": " Department of Statistics and Operations Research, Universitat de Valencia",
+      "position": "Assistant Professor",
+      "url": "https://www.uv.es/eio",
+      "startDate": "2025-07-01",
+      "summary": "Statitistics, time-series, machine-learning lectures."
+    },
+    {
       "name": "Image & Signal Processing group, Universitat de Valencia",
       "position": "Post-doctoral research fellow",
       "url": "https://isp.uv.es",
       "startDate": "2024-01-20",
+      "endDate": "2025-06-30",
       "summary": "Research on causal discovery, causal inference and machine learning applied to Earth system sciences.",
       "highlights": ["Heatwave understanding"]
     }
